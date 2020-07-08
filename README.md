@@ -25,3 +25,9 @@
   <img src="layout3.PNG">
   <li>layout04</li>
   <img src="layout4.PNG">
+  <li>layout05</li>
+  <img src="layout5.PNG">
+  <li>layout06</li>
+  <img src="layout6.PNG">
+  <li>layout07</li>
+  <img src="layout7.PNG">

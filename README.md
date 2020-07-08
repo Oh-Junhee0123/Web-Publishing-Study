@@ -13,9 +13,10 @@
   <li>https://oh-junhee0123.github.io/Web-Publishing-Study/layout06.html</li>
   <li>https://oh-junhee0123.github.io/Web-Publishing-Study/layout07.html</li>
 </ul>
-
 <br>
+
 ## 2_Img
 <ul>
   <li>layout01</li>
+  <img src="layout.PNG">
   

@@ -19,6 +19,8 @@
 <ul>
   <li>layout01</li>
   <img src="layout1.PNG">
-  <li>layout01</li>
+  <li>layout02</li>
   <img src="layout2.PNG">
+  <li>layout03</li>
+  <img src="layout3.PNG">
   

@@ -4,19 +4,19 @@
 # layout
 ## 1_Link
 <ul>
-  <li>layout1</li>
+  <li>layout01</li>
   https://oh-junhee0123.github.io/Web-Publishing-Study/layout01.html
-  <li>layout2</li>
+  <li>layout02</li>
   https://oh-junhee0123.github.io/Web-Publishing-Study/layout02.html
-  <li>layout3</li>
+  <li>layout03</li>
   https://oh-junhee0123.github.io/Web-Publishing-Study/layout03.html
-  <li>layout4</li>
+  <li>layout04</li>
   https://oh-junhee0123.github.io/Web-Publishing-Study/layout04.html
-  <li>layout5</li>
+  <li>layout05</li>
   https://oh-junhee0123.github.io/Web-Publishing-Study/layout05.html
-  <li>layout6</li>
+  <li>layout06</li>
   https://oh-junhee0123.github.io/Web-Publishing-Study/layout06.html
-  <li>layout7</li>
+  <li>layout07</li>
   https://oh-junhee0123.github.io/Web-Publishing-Study/layout07.html
 </ul>
 <br>

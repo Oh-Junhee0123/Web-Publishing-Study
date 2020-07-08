@@ -20,4 +20,5 @@
   <li>layout01</li>
   <img src="layout1.PNG">
   <li>layout01</li>
+  <img src="layout2.PNG">
   

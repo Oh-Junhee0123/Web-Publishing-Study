@@ -1,20 +1,24 @@
 # Web-Publishing-Study
 <br>
-
 # layout
-
 ## 1_Link
 <ul>
-  <li>https://oh-junhee0123.github.io/Web-Publishing-Study/layout01.html</li>
-  <li>https://oh-junhee0123.github.io/Web-Publishing-Study/layout02.html</li>
-  <li>https://oh-junhee0123.github.io/Web-Publishing-Study/layout03.html</li>
-  <li>https://oh-junhee0123.github.io/Web-Publishing-Study/layout04.html</li>
-  <li>https://oh-junhee0123.github.io/Web-Publishing-Study/layout05.html</li>
-  <li>https://oh-junhee0123.github.io/Web-Publishing-Study/layout06.html</li>
-  <li>https://oh-junhee0123.github.io/Web-Publishing-Study/layout07.html</li>
+  <li>layout1</li>
+  https://oh-junhee0123.github.io/Web-Publishing-Study/layout01.html
+  <li>layout2</li>
+  https://oh-junhee0123.github.io/Web-Publishing-Study/layout02.html
+  <li>layout3</li>
+  https://oh-junhee0123.github.io/Web-Publishing-Study/layout03.html
+  <li>layout4</li>
+  https://oh-junhee0123.github.io/Web-Publishing-Study/layout04.html
+  <li>layout5</li>
+  https://oh-junhee0123.github.io/Web-Publishing-Study/layout05.html
+  <li>layout6</li>
+  https://oh-junhee0123.github.io/Web-Publishing-Study/layout06.html
+  <li>layout7</li>
+  https://oh-junhee0123.github.io/Web-Publishing-Study/layout07.html
 </ul>
 <br>
-
 ## 2_Img
 <ul>
   <li>layout01</li>

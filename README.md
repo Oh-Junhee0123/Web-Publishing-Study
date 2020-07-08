@@ -4,6 +4,7 @@
 <ul>
   <li>https://oh-junhee0123.github.io/Web-Publishing-Study/layout01.html</li>
   <img src="layout1.PNG">
+  
   <li>https://oh-junhee0123.github.io/Web-Publishing-Study/layout02.html</li>
   <li>https://oh-junhee0123.github.io/Web-Publishing-Study/layout03.html</li>
   <li>https://oh-junhee0123.github.io/Web-Publishing-Study/layout04.html</li>

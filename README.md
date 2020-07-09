@@ -1,4 +1,6 @@
-<center> # Web-Publishing-Study </center>
+<center> 
+  # Web-Publishing-Study 
+</center>
 <br>
 
 > # layout

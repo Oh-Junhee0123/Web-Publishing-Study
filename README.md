@@ -1,4 +1,4 @@
-# Web-Publishing-Study 
+<h1 aligin = 'center'>Web-Publishing-Study</h1>
 <br>
 
 > # layout

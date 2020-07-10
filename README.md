@@ -1,7 +1,7 @@
 <h1 align="center">Web-Publishing-Study</h1>
 <br>
 
-> # layout
+> <h2>layout
 ## 1_Link
 <ul>
   <li>layout01</li>
